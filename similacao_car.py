@@ -1,4 +1,4 @@
-from Car import *
+from car import Car
 
 my_car = Car("padrao", "fusca", 72)
 my_car.get_describe_car()
