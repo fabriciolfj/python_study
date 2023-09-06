@@ -11,7 +11,7 @@ while True:
 
     try:
         result = int(first_value) / int(second_value)
-    except:
+    except ZeroDivisionError:
         print(f"impossibile by division {first_value} and {second_value}")
     else:
         print(result)
