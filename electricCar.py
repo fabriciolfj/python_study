@@ -1,5 +1,4 @@
 from car import Car
-from battery import Battery
 
 
 class ElectricCar(Car):
