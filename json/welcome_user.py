@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 
 
-def get_user(user):
+def get_user():
     path = Path("username.json")
     if path.exists():
         file = path.read_text(encoding="utf-8")
@@ -22,7 +22,7 @@ def save_user(user):
 
 
 def main(user):
-    if not get_user(user):
+    if not get_user():
         save_user(user)
 
 
