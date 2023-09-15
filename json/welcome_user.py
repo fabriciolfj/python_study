@@ -10,7 +10,7 @@ def get_user():
         print(f"welcome {username}")
         return username
 
-    return None
+    return None  
 
 
 def save_user(user):
