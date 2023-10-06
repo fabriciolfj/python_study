@@ -1,4 +1,4 @@
-from Dog import *
+from dog import *
 
 my_dog = Dog('nina', 14)
 my_dog.sit()
