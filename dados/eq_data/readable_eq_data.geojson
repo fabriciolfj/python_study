@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1697153184000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "86 km SE of Lata, Solomon Islands",
+                "time": 1697151283582,
+                "updated": 1697152249040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000lf8m",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000lf8m.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000lf8m",
+                "ids": ",us6000lf8m,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 28,
+                "dmin": 4.181,
+                "rms": 0.3,
+                "gap": 147,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 86 km SE of Lata, Solomon Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.2948,
+                    -11.3364,
+                    98.709
+                ]
+            },
+            "id": "us6000lf8m"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.7,
+                "place": "43 km NNW of Hughes, Alaska",
+                "time": 1697151273602,
+                "updated": 1697151582268,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak023d3pl3as",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023d3pl3as.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 44,
+                "net": "ak",
+                "code": "023d3pl3as",
+                "ids": ",ak023d3pl3as,",
+                "sources": ",ak,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": null,
+                "rms": 1.12,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.7 - 43 km NNW of Hughes, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -154.523,
+                    66.4252,
+                    0
+                ]
+            },
+            "id": "ak023d3pl3as"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.09,
+                "place": "22 km W of New Idria, CA",
+                "time": 1697150058770,
+                "updated": 1697151196571,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73946550",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73946550.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 67,
+                "net": "nc",
+                "code": "73946550",
+                "ids": ",nc73946550,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 31,
+                "dmin": 0.08809,
+                "rms": 0.28,
+                "gap": 104,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 2.1 - 22 km W of New Idria, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.911499,
+                    36.4398346,
+                    14.1
+                ]
+            },
+            "id": "nc73946550"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "121 km SSE of Kuril\u2019sk, Russia",
+                "time": 1697150020483,
+                "updated": 1697151027040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000lf8b",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000lf8b.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 400,
+                "net": "us",
+                "code": "6000lf8b",
+                "ids": ",us6000lf8b,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 87,
+                "dmin": 4.253,
+                "rms": 0.69,
+                "gap": 136,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.1 - 121 km SSE of Kuril\u2019sk, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.5026,
+                    44.2272,
+                    48.656
+                ]
+            },
+            "id": "us6000lf8b"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.3,
+                "place": "10 km WNW of The Geysers, CA",
+                "time": 1697149870220,
+                "updated": 1697151195461,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73946545",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73946545.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 26,
+                "net": "nc",
+                "code": "73946545",
+                "ids": ",nc73946545,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 25,
+                "dmin": 0.001529,
+                "rms": 0.02,
+                "gap": 62,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.3 - 10 km WNW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8550034,
+                    38.8279991,
+                    2.28
+                ]
+            },
+            "id": "nc73946545"
+        }
+    ],
+    "bbox": [
+        -154.523,
+        -11.3364,
+        0,
+        166.2948,
+        66.4252,
+        98.709
+    ]
+}
